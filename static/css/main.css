@@ -6885,6 +6885,10 @@ body {
 #body-text {
   display: none; }
 
+.icons-team {
+  position: relative;
+  right: 16px; }
+
 .hr {
   width: 2px;
   height: 90%;
@@ -6893,6 +6897,10 @@ body {
   top: 103px;
   right: 0px;
   z-index: 10; }
+
+.btn-team {
+  float: right;
+  margin: 2%; }
 
 .soundcite-loaded {
   font-size: 25px;
